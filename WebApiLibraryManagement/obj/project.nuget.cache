@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+QBv/fVv2rw=",
+  "success": true,
+  "projectFilePath": "D:\\CDAC_MUMBAI _KHARGAR_2024-25\\Module8\\PROJECTS\\WebApiLibraryManagement\\WebApiLibraryManagement\\WebApiLibraryManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinayak\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\vinayak\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
